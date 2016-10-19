@@ -1,2 +1,2 @@
-The objective of the porject is to create spam filter for e-mails.
-The filter is built on the basis of Naive Bayesian classifier.
+The objective of the porject is to devise a spam e-mail filter.
+The mathematical model is built on the basis of Naive Bayesian classifier.
